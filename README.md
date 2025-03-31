@@ -1,2 +1,2 @@
-# Biomedical-Data-Study
+# Biometric-Data-Study
 This repository holds documents related to a personal biomedical study in which I personally tracked and logged 26 variables over 226 days in order to collect enough material to analyze. This analysis encompasses basic statistics to more advanced graduate level Machine Learning and forecasting models. The actual computation for these models and statistics was carried out over Microsoft Excel, Python via JupyterLab, and R Classic. Files related to the collecting, cleaning, and analysis are included. This study is ever expanding as future plans include collecting new data to form new models. 
